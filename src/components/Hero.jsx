@@ -22,7 +22,6 @@ const Hero = () => {
                       I develop software, whether it is backend, frontend, <br className="sm:block hidden"/> full-stack, or any type of applications
                     </div>
                 </div>
-
             </div>
             <ComputersCanvas/>
         </section>
