@@ -24,7 +24,7 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt="logo" className={`w-7 h-7 object contain`}/>
-          <p className="text-white text-[18px] font-bold cursor-pointer flex" >Mahan Mehdipour &nbsp;<div className="sm:block hidden text-slate-500 align-bottom">Software Developer</div></p>
+          <div className="text-white text-[18px] font-bold cursor-pointer flex" >Mahan Mehdipour &nbsp;<div className="sm:block hidden text-slate-500 align-bottom">Software Developer</div></div>
 
         </Link>
         <ul className='list-none hidden sm:flex flex-row gap-10'>
