@@ -8,8 +8,8 @@ const Computers = () => {
 
   return (
     <mesh>
-      <hemisphereLight intensity={0.15} groundColor={'black'}/>
-      <pointLight intensity={1}/>
+      <hemisphereLight intensity={0.35} groundColor={'black'}/>
+      <pointLight intensity={0.5}/>
       <primitive
         object={computer.scene}
         scale={0.75}
@@ -38,8 +38,9 @@ const ComputerCanvas = () => {
     >
       <Suspense fallback={<CanvasLoader/>}>
         <OrbitControls enableZoom={false} 
-        maxPolarAngle={Math.PI / 2}
-        minPolarAngle={Math.PI / 2}
+          maxPolarAngle={Math.PI / 2}
+          minPolarAngle={Math.PI / 2}
+          enablePan={false}
         />
         <Computers/>
       </Suspense>
