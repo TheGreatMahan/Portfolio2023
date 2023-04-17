@@ -28,7 +28,7 @@ const Computers = () => {
   )
 }
 
-const computerCanvas = () => {
+const ComputerCanvas = () => {
   return (
     <Canvas 
       frameloop='demand'
@@ -49,4 +49,4 @@ const computerCanvas = () => {
   )
 }
 
-export default Computers
+export default ComputerCanvas
