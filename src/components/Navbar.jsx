@@ -40,6 +40,9 @@ const Navbar = () => {
               <a href={`#${link.id}`}>{link.title}</a>
             </li>
           ))}
+            <li>
+              <a href={`https://thegreatmahan.github.io/Portfolio/`}>Old Portfolio</a>
+            </li>
         </ul>
         <div className="sm:hidden flex flex-1 justify-end items-center">
           <img
