@@ -48,7 +48,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I'm a skilled software developer with experience in TypeScript,
-        JavaScript, Java, and .NET and expertise in frameworks like React. I'm a quick learner and collaborate closely with colleagues and clients to
+        JavaScript, Java, and C# and expertise in frameworks like React and .NET. I'm a quick learner and collaborate closely with colleagues and clients to
         create efficient, and scalable solutions that solve
         real-world problems.
       </motion.p>

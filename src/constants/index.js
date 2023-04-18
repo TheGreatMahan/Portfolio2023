@@ -42,7 +42,7 @@ const services = [
         icon: web,
     },
     {
-        title: "React Native Developer",
+        title: "frontend Developer",
         icon: mobile,
     },
     {
@@ -50,7 +50,7 @@ const services = [
         icon: backend,
     },
     {
-        title: "Content Creator",
+        title: "Problem Solver",
         icon: creator,
     },
 ];
@@ -141,7 +141,7 @@ const experiences = [
         title: "Associate Software Engineer (CO-OP)",
         company_name: "Carfax",
         icon: carfax,
-        iconBg: "#009ADA",
+        iconBg: "#29ABE2",
         date: "December 2022 - April 2023",
         points: [
             "Designed a comprehensive interface that allowed the QA team to easily template received documents",
