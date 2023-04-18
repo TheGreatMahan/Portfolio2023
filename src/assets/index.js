@@ -9,7 +9,6 @@ import close from "./close.svg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
@@ -20,6 +19,33 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import dotnet from "./tech/.net.png";
+import androidstudio from "./tech/androidstudio.png";
+import angular from "./tech/angular.png";
+import aws from "./tech/aws.png";
+import azure from "./tech/azure.png";
+import bootstrap from "./tech/bootstrap.png";
+import c from "./tech/c.png";
+import csharp from "./tech/csharp.png";
+import cpp from "./tech/c++.png";
+import java from "./tech/java.png";
+import jira from "./tech/jira.png";
+import jquery from "./tech/jquery.png";
+import json from "./tech/json.png";
+import kotlin from "./tech/kotlin.png";
+import laravel from "./tech/laravel.png";
+import linux from "./tech/linux.png";
+import macos from "./tech/macos.png";
+import php from "./tech/php.png";
+import python from "./tech/python.png";
+import springboot from "./tech/springboot.png";
+import sql from "./tech/sql.png";
+import unity from "./tech/unity.png";
+import visualstudio from "./tech/visualstudio.png";
+import vue from "./tech/vue.png";
+import windows from "./tech/windows.png";
+
+
 
 import kbx from "./company/kbx.png";
 import sagacity from "./company/sagacity.png";
@@ -40,7 +66,6 @@ export {
   close,
   css,
   docker,
-  figma,
   git,
   html,
   javascript,
@@ -56,5 +81,30 @@ export {
   tripguide,
   kbx,
   sagacity,
-  carfax
+  carfax,
+  dotnet,
+  androidstudio,  
+  angular,  
+  aws,  
+  azure,  
+  bootstrap,  
+  c,  
+  csharp, 
+  cpp,  
+  java, 
+  jira, 
+  jquery, 
+  json, 
+  kotlin, 
+  laravel,  
+  linux,  
+  macos,  
+  php,  
+  python, 
+  springboot, 
+  sql,  
+  unity,  
+  visualstudio, 
+  vue,  
+  windows,  
 };

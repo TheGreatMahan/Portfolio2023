@@ -13,12 +13,36 @@ import {
     nodejs,
     mongodb,
     git,
-    figma,
     docker,
     threejs,
     kbx,
     sagacity,
     carfax,
+    dotnet,
+    androidstudio,
+    angular,
+    aws,
+    azure,
+    bootstrap,
+    c,
+    csharp,
+    cpp,
+    java,
+    jira,
+    jquery,
+    json,
+    kotlin,
+    laravel,
+    linux,
+    macos,
+    php,
+    python,
+    springboot,
+    sql,
+    unity,
+    visualstudio,
+    vue,
+    windows,
 } from "../assets";
 
 export const navLinks = [
@@ -57,14 +81,6 @@ const services = [
 
 const technologies = [
     {
-        name: "HTML 5",
-        icon: html,
-    },
-    {
-        name: "CSS 3",
-        icon: css,
-    },
-    {
         name: "JavaScript",
         icon: javascript,
     },
@@ -73,16 +89,36 @@ const technologies = [
         icon: typescript,
     },
     {
+        name: "Java",
+        icon: java,
+    },
+    {
+        name: "C#",
+        icon: csharp,
+    },
+    {
+        name: "C++",
+        icon: cpp,
+    },
+    {
         name: "React JS",
         icon: reactjs,
     },
     {
-        name: "Redux Toolkit",
-        icon: redux,
+        name: "Angular",
+        icon: angular,
     },
     {
-        name: "Tailwind CSS",
-        icon: tailwind,
+        name: "AWS",
+        icon: aws,
+    },
+    {
+        name: "Python",
+        icon: python,
+    },
+    {
+        name: "SQL",
+        icon: sql,
     },
     {
         name: "Node JS",
@@ -91,22 +127,6 @@ const technologies = [
     {
         name: "MongoDB",
         icon: mongodb,
-    },
-    {
-        name: "Three JS",
-        icon: threejs,
-    },
-    {
-        name: "git",
-        icon: git,
-    },
-    {
-        name: "figma",
-        icon: figma,
-    },
-    {
-        name: "docker",
-        icon: docker,
     },
 ];
 
