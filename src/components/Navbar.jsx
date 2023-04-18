@@ -67,6 +67,9 @@ const Navbar = () => {
                   <a href={`#${link.id}`}>{link.title}</a>
                 </li>
               ))}
+              <li className='hover:text-white text-[18px] font-medium cursor-pointer'>
+                <a href={`https://thegreatmahan.github.io/Portfolio/`}>Old Portfolio</a>
+              </li>
             </ul>
           </div>
         </div>
