@@ -50,6 +50,7 @@ import windows from "./tech/windows.png";
 import kbx from "./company/kbx.png";
 import sagacity from "./company/sagacity.png";
 import carfax from "./company/carfax.png";
+import dataannotation from "./company/dataannotation.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -107,4 +108,5 @@ export {
   visualstudio, 
   vue,  
   windows,  
+  dataannotation
 };

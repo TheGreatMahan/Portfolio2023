@@ -18,6 +18,7 @@ import {
     kbx,
     sagacity,
     carfax,
+    dataannotation,
     dotnet,
     androidstudio,
     angular,
@@ -163,6 +164,20 @@ const experiences = [
         icon: carfax,
         iconBg: "#29ABE2",
         date: "December 2022 - April 2023",
+        points: [
+            "Designed a comprehensive interface that allowed the QA team to easily template received documents",
+            "Implemented React testing library and Jest for efficient and effective testing with 100% coverage",
+            "Utilized TypeScript for improved type safety and code reliability",
+            "Worked collaboratively with cross-functional teams to ensure the tool met the needs of the QA team and aligned with business objectives",
+            "Worked closely with a senior engineer from developing a proof of concept to creating a minimum viable product",
+        ],
+    },
+    {
+        title: "Software Developer - AI Training",
+        company_name: "DataAnnotation",
+        icon: dataannotation,
+        iconBg: "#000000",
+        date: "March 2024 - Present",
         points: [
             "Designed a comprehensive interface that allowed the QA team to easily template received documents",
             "Implemented React testing library and Jest for efficient and effective testing with 100% coverage",
