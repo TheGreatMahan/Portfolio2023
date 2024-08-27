@@ -179,11 +179,9 @@ const experiences = [
         iconBg: "#000000",
         date: "March 2024 - Present",
         points: [
-            "Designed a comprehensive interface that allowed the QA team to easily template received documents",
-            "Implemented React testing library and Jest for efficient and effective testing with 100% coverage",
-            "Utilized TypeScript for improved type safety and code reliability",
-            "Worked collaboratively with cross-functional teams to ensure the tool met the needs of the QA team and aligned with business objectives",
-            "Worked closely with a senior engineer from developing a proof of concept to creating a minimum viable product",
+            "Collaborated with AI chatbots to train them in coding, evaluating progress and refining algorithms",
+            "Demonstrated proficiency in programming languages such as Java, TypeScript, JavaScript, Python, C++, C#, and SQL, solving complex coding problems to enhance chatbot capabilities",
+            "Implement data annotation strategies to curate high-quality datasets for training AI models, ensuring accuracy and reliability in chatbot responses",
         ],
     }
 ];
